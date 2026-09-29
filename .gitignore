@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.import/
+.qa/
+*.log
+.private/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+src/data/published.json.tmp
